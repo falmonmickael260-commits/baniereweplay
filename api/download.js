@@ -1,18 +1,18 @@
 const FILES = {
   "1": {
-    url: "https://res.cloudinary.com/dkm8cbylh/image/upload/v1792315834/partie_1_1x1_qgnjkv.gif",
+    url: "https://res.cloudinary.com/dkm8cbylh/image/upload/v1792319749/LEXIE_partie_1_tiuwla.gif",
     filename: "partie-1.gif",
   },
   "2": {
-    url: "https://res.cloudinary.com/dkm8cbylh/image/upload/v1792315836/partie_2_1x1_x9jvhp.gif",
+    url: "https://res.cloudinary.com/dkm8cbylh/image/upload/v1792319751/LEXIE_partie_2_1x1_1_zsu3cd.gif",
     filename: "partie-2.gif",
   },
   "3": {
-    url: "https://res.cloudinary.com/dkm8cbylh/image/upload/v1792315838/partie_3_1x1_pjbgoh.gif",
+    url: "https://res.cloudinary.com/dkm8cbylh/image/upload/v1792319755/LEXIE_partie_3_1x1_j8wgki.gif",
     filename: "partie-3.gif",
   },
   "4": {
-    url: "https://res.cloudinary.com/dkm8cbylh/image/upload/v1792315836/partie_4_1x1_ipsbxt.gif",
+    url: "https://res.cloudinary.com/dkm8cbylh/image/upload/v1792319752/LEXIE_partie_4_1x1_xfvlit.gif",
     filename: "partie-4.gif",
   },
 };
